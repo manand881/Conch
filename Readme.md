@@ -9,11 +9,11 @@ This is a sample dataset I generated to contribute to the OpenDroneMap community
 ## Axis Info
 
 
-| Axis               | x       | y         | z         |   |
-|--------------------|---------|-----------|-----------|---|
-| Degree of coverage | 360&deg;| 180&deg;  | 180&deg;  |   |
-| Quadrant           | 1,2,3,4 | 1,2       | 1,2       |   |
-| Equidistant        | yes     | no        | no        |   |
+| Axis               | x       | y         | z         |
+|--------------------|---------|-----------|-----------|
+| Degree of coverage | 360&deg;| 180&deg;  | 180&deg;  |
+| Quadrant           | 1,2,3,4 | 1,2       | 1,2       |   
+| Equidistant        | yes     | no        | no        |   
 
 
 ## Image Info
